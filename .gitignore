@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Model file
+wingo_model.pkl
+
+# Credentials / Tokens
+service_account.json
+
+# Environment
+.env
+
+# System files
+.DS_Store
+*.log
